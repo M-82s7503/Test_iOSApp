@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "1947c56647c72497a42725e8a1af8b5d"
+build_time: [1511881526, 70460000]
+inputs:
+  "/Users/e165738/,p/,IDE/Xcode/Learn/Modeling/cats-eye/cats-eye/ViewController.swift": [1511877630, 0]
+  "/Users/e165738/,p/,IDE/Xcode/Learn/Modeling/cats-eye/cats-eye/kumatest.swift": [9223372036, 854775807]
+  "/Users/e165738/,p/,IDE/Xcode/Learn/Modeling/cats-eye/cats-eye/AppDelegate.swift": [1511877630, 0]
